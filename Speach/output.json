@@ -1,0 +1,1702 @@
+[
+    {
+        "Id": "03de516e521b4ee09584b8100ed6c528",
+        "RecognitionStatus": 0,
+        "Offset": 3500000,
+        "Duration": 28400000,
+        "Channel": 0,
+        "DisplayText": "So now I will say a little bit more about me.",
+        "NBest": [
+            {
+                "Confidence": 0.79757947,
+                "Lexical": "so now i will say a little bit more about me",
+                "ITN": "so now i will say a little bit more about me",
+                "MaskedITN": "so now i will say a little bit more about me",
+                "Display": "So now I will say a little bit more about me.",
+                "Words": [
+                    {
+                        "Word": "so",
+                        "Offset": 3500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "now",
+                        "Offset": 5900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 9100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "will",
+                        "Offset": 9500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "say",
+                        "Offset": 11100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 13500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "little",
+                        "Offset": 13900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "bit",
+                        "Offset": 16300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "more",
+                        "Offset": 17500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "about",
+                        "Offset": 21500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 27100000,
+                        "Duration": 4800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7723547,
+                "Lexical": "so now i will see a little bit more about me",
+                "ITN": "so now i will see a little bit more about me",
+                "MaskedITN": "so now i will see a little bit more about me",
+                "Display": "so now i will see a little bit more about me",
+                "Words": [
+                    {
+                        "Word": "so",
+                        "Offset": 3500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "now",
+                        "Offset": 5900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 9100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "will",
+                        "Offset": 9500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "see",
+                        "Offset": 11100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 13500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "little",
+                        "Offset": 13900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "bit",
+                        "Offset": 16300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "more",
+                        "Offset": 17500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "about",
+                        "Offset": 21500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 27100000,
+                        "Duration": 6800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7242811,
+                "Lexical": "so now we will say a little bit more about me",
+                "ITN": "so now we will say a little bit more about me",
+                "MaskedITN": "so now we will say a little bit more about me",
+                "Display": "so now we will say a little bit more about me",
+                "Words": [
+                    {
+                        "Word": "so",
+                        "Offset": 3500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "now",
+                        "Offset": 5900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "we",
+                        "Offset": 8700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "will",
+                        "Offset": 9500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "say",
+                        "Offset": 11100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 13500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "little",
+                        "Offset": 13900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "bit",
+                        "Offset": 16300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "more",
+                        "Offset": 17500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "about",
+                        "Offset": 21500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 27100000,
+                        "Duration": 6800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.73136365,
+                "Lexical": "so now i will say a little bit more about me uh",
+                "ITN": "so now i will say a little bit more about me uh",
+                "MaskedITN": "so now i will say a little bit more about me uh",
+                "Display": "so now i will say a little bit more about me uh",
+                "Words": [
+                    {
+                        "Word": "so",
+                        "Offset": 3500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "now",
+                        "Offset": 5900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 9100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "will",
+                        "Offset": 9500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "say",
+                        "Offset": 11100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 13500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "little",
+                        "Offset": 13900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "bit",
+                        "Offset": 16300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "more",
+                        "Offset": 17500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "about",
+                        "Offset": 21500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 27100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "uh",
+                        "Offset": 46300000,
+                        "Duration": 500000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7082409,
+                "Lexical": "so now i will see a little bit more about me uh",
+                "ITN": "so now i will see a little bit more about me uh",
+                "MaskedITN": "so now i will see a little bit more about me uh",
+                "Display": "so now i will see a little bit more about me uh",
+                "Words": [
+                    {
+                        "Word": "so",
+                        "Offset": 3500000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "now",
+                        "Offset": 5900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 9100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "will",
+                        "Offset": 9500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "see",
+                        "Offset": 11100000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 13500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "little",
+                        "Offset": 13900000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "bit",
+                        "Offset": 16300000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "more",
+                        "Offset": 17500000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "about",
+                        "Offset": 21500000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "me",
+                        "Offset": 27100000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "uh",
+                        "Offset": 46300000,
+                        "Duration": 500000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "892e2a3fc6084fd6808f5a6ba2741c8f",
+        "RecognitionStatus": 0,
+        "Offset": 47200000,
+        "Duration": 8400000,
+        "Channel": 0,
+        "DisplayText": "I have 19.",
+        "NBest": [
+            {
+                "Confidence": 0.7717841,
+                "Lexical": "i have nineteen",
+                "ITN": "i have 19",
+                "MaskedITN": "i have 19",
+                "Display": "I have 19.",
+                "Words": [
+                    {
+                        "Word": "i",
+                        "Offset": 47200000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "have",
+                        "Offset": 47600000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "nineteen",
+                        "Offset": 49200000,
+                        "Duration": 6400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.64010465,
+                "Lexical": "uh i have nineteen",
+                "ITN": "uh i have nineteen",
+                "MaskedITN": "uh i have nineteen",
+                "Display": "uh i have nineteen",
+                "Words": [
+                    {
+                        "Word": "uh",
+                        "Offset": 47200000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 48000000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "have",
+                        "Offset": 48400000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "nineteen",
+                        "Offset": 50000000,
+                        "Duration": 5600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.94431424,
+                "Lexical": "i have",
+                "ITN": "i have",
+                "MaskedITN": "i have",
+                "Display": "i have",
+                "Words": [
+                    {
+                        "Word": "i",
+                        "Offset": 47200000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "have",
+                        "Offset": 47600000,
+                        "Duration": 8400000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.714733,
+                "Lexical": "uh i have",
+                "ITN": "uh i have",
+                "MaskedITN": "uh i have",
+                "Display": "uh i have",
+                "Words": [
+                    {
+                        "Word": "uh",
+                        "Offset": 47200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 48400000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "have",
+                        "Offset": 48800000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.5377743,
+                "Lexical": "uh i have ninet",
+                "ITN": "uh i have ninet",
+                "MaskedITN": "uh i have ninet",
+                "Display": "uh i have ninet",
+                "Words": [
+                    {
+                        "Word": "uh",
+                        "Offset": 47200000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 48400000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "have",
+                        "Offset": 48800000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "ninet",
+                        "Offset": 50800000,
+                        "Duration": 4400000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "bf8ea6b1606244faa4403a3cb53ab0ef",
+        "RecognitionStatus": 0,
+        "Offset": 67900000,
+        "Duration": 55600000,
+        "Channel": 0,
+        "DisplayText": "And now I study in computer science and I'm working on Athos.",
+        "NBest": [
+            {
+                "Confidence": 0.72110337,
+                "Lexical": "and now i study in computer science and i'm working on athos",
+                "ITN": "and now i study in computer science and i'm working on athos",
+                "MaskedITN": "and now i study in computer science and i'm working on athos",
+                "Display": "And now I study in computer science and I'm working on Athos.",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 67900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "now",
+                        "Offset": 73900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 80300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "study",
+                        "Offset": 80700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 84700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "computer",
+                        "Offset": 85500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "science",
+                        "Offset": 90700000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 100700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 102700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "working",
+                        "Offset": 104300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 109100000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "athos",
+                        "Offset": 116300000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.64224714,
+                "Lexical": "and now i'm studying computer science and i'm working on athos",
+                "ITN": "and now i'm studying computer science and i'm working on athos",
+                "MaskedITN": "and now i'm studying computer science and i'm working on athos",
+                "Display": "and now i'm studying computer science and i'm working on athos",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 67900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "now",
+                        "Offset": 73900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 79900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "studying",
+                        "Offset": 81100000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "computer",
+                        "Offset": 85900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "science",
+                        "Offset": 90700000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 100700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 102700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "working",
+                        "Offset": 104300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 109100000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "athos",
+                        "Offset": 116300000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.726079,
+                "Lexical": "and now i studied computer science and i'm working on athos",
+                "ITN": "and now i studied computer science and i'm working on athos",
+                "MaskedITN": "and now i studied computer science and i'm working on athos",
+                "Display": "and now i studied computer science and i'm working on athos",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 67900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "now",
+                        "Offset": 73900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 80300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "studied",
+                        "Offset": 80700000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "computer",
+                        "Offset": 85900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "science",
+                        "Offset": 90700000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 100700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 102700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "working",
+                        "Offset": 104300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 109100000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "athos",
+                        "Offset": 116300000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.70303464,
+                "Lexical": "and now i studied in computer science and i'm working on athos",
+                "ITN": "and now i studied in computer science and i'm working on athos",
+                "MaskedITN": "and now i studied in computer science and i'm working on athos",
+                "Display": "and now i studied in computer science and i'm working on athos",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 67900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "now",
+                        "Offset": 73900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 80300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "studied",
+                        "Offset": 80700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 84700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "computer",
+                        "Offset": 85500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "science",
+                        "Offset": 90700000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 100700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 102700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "working",
+                        "Offset": 104300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 109100000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "athos",
+                        "Offset": 116300000,
+                        "Duration": 7200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.68514234,
+                "Lexical": "and now i study in computer science and i'm working on on athos",
+                "ITN": "and now i study in computer science and i'm working on on athos",
+                "MaskedITN": "and now i study in computer science and i'm working on on athos",
+                "Display": "and now i study in computer science and i'm working on on athos",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 67900000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "now",
+                        "Offset": 73900000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 80300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "study",
+                        "Offset": 80700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "in",
+                        "Offset": 84700000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "computer",
+                        "Offset": 85500000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "science",
+                        "Offset": 90700000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 100700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 102700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "working",
+                        "Offset": 104300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 109100000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 113500000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "athos",
+                        "Offset": 116300000,
+                        "Duration": 7200000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "ed3fed75e5d34b3e904bcb50580a9951",
+        "RecognitionStatus": 0,
+        "Offset": 143500000,
+        "Duration": 128400000,
+        "Channel": 0,
+        "DisplayText": "And I I'm focused to learn more about GPT and generative AI. Cause of this I'm doing the certificate. I'm starting to do the certificate.",
+        "NBest": [
+            {
+                "Confidence": 0.73664445,
+                "Lexical": "and i i'm focused to learn more about GPT and generative AI cause of this i'm doing the certificate i'm starting to do the certificate",
+                "ITN": "and i i'm focused to learn more about GPT and generative AI cause of this i'm doing the certificate i'm starting to do the certificate",
+                "MaskedITN": "and i i'm focused to learn more about gpt and generative ai cause of this i'm doing the certificate i'm starting to do the certificate",
+                "Display": "And I I'm focused to learn more about GPT and generative AI. Cause of this I'm doing the certificate. I'm starting to do the certificate.",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 143500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 146700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 147500000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "focused",
+                        "Offset": 157900000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 165500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "learn",
+                        "Offset": 166300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "more",
+                        "Offset": 175900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "about",
+                        "Offset": 179100000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "GPT",
+                        "Offset": 187900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 190700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "generative",
+                        "Offset": 202300000,
+                        "Duration": 16800000
+                    },
+                    {
+                        "Word": "AI",
+                        "Offset": 219100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "cause",
+                        "Offset": 227100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 230300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 231900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 235900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "doing",
+                        "Offset": 238700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 242700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "certificate",
+                        "Offset": 244700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 251100000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "starting",
+                        "Offset": 252300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 256700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 258300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 260700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "certificate",
+                        "Offset": 262300000,
+                        "Duration": 9600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.76292676,
+                "Lexical": "and i i'm focused to learn more about gpt and generative ai cause of this i'm doing the certificate and studying to do the certificate",
+                "ITN": "and i i'm focused to learn more about gpt and generative ai cause of this i'm doing the certificate and studying to do the certificate",
+                "MaskedITN": "and i i'm focused to learn more about gpt and generative ai cause of this i'm doing the certificate and studying to do the certificate",
+                "Display": "and i i'm focused to learn more about GPT and generative AI cause of this i'm doing the certificate and studying to do the certificate",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 143500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 146700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 147500000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "focused",
+                        "Offset": 157900000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 165500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "learn",
+                        "Offset": 166300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "more",
+                        "Offset": 175900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "about",
+                        "Offset": 179100000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "GPT",
+                        "Offset": 187900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 190700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "generative",
+                        "Offset": 202300000,
+                        "Duration": 16800000
+                    },
+                    {
+                        "Word": "AI",
+                        "Offset": 219100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "cause",
+                        "Offset": 227100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 230300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 231900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 235900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "doing",
+                        "Offset": 238700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 242700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "certificate",
+                        "Offset": 244700000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 250700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "studying",
+                        "Offset": 252300000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 256700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 258300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 260700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "certificate",
+                        "Offset": 262300000,
+                        "Duration": 9600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.76562715,
+                "Lexical": "and i i'm focused to learn more about gpt and generative ai cause of this i'm doing the certificate i studying to do the certificate",
+                "ITN": "and i i'm focused to learn more about gpt and generative ai cause of this i'm doing the certificate i studying to do the certificate",
+                "MaskedITN": "and i i'm focused to learn more about gpt and generative ai cause of this i'm doing the certificate i studying to do the certificate",
+                "Display": "and i i'm focused to learn more about GPT and generative AI cause of this i'm doing the certificate i studying to do the certificate",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 143500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 146700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 147500000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "focused",
+                        "Offset": 157900000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 165500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "learn",
+                        "Offset": 166300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "more",
+                        "Offset": 175900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "about",
+                        "Offset": 179100000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "GPT",
+                        "Offset": 187900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 190700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "generative",
+                        "Offset": 202300000,
+                        "Duration": 16800000
+                    },
+                    {
+                        "Word": "AI",
+                        "Offset": 219100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "cause",
+                        "Offset": 227100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 230300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 231900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 235900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "doing",
+                        "Offset": 238700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 242700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "certificate",
+                        "Offset": 244700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 251500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "studying",
+                        "Offset": 251900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 256700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 258300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 260700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "certificate",
+                        "Offset": 262300000,
+                        "Duration": 9600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.7508977,
+                "Lexical": "and i am focused to learn more about gpt and generative ai cause of this i'm doing the certificate i studying to do the certificate",
+                "ITN": "and i am focused to learn more about gpt and generative ai cause of this i'm doing the certificate i studying to do the certificate",
+                "MaskedITN": "and i am focused to learn more about gpt and generative ai cause of this i'm doing the certificate i studying to do the certificate",
+                "Display": "and i am focused to learn more about GPT and generative AI cause of this i'm doing the certificate i studying to do the certificate",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 143500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 149900000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "am",
+                        "Offset": 153100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "focused",
+                        "Offset": 157900000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 165500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "learn",
+                        "Offset": 166300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "more",
+                        "Offset": 175900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "about",
+                        "Offset": 179100000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "GPT",
+                        "Offset": 187900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 190700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "generative",
+                        "Offset": 202300000,
+                        "Duration": 16800000
+                    },
+                    {
+                        "Word": "AI",
+                        "Offset": 219100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "cause",
+                        "Offset": 227100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 230300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 231900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 235900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "doing",
+                        "Offset": 238700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 242700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "certificate",
+                        "Offset": 244700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 251500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "studying",
+                        "Offset": 251900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 256700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 258300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 260700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "certificate",
+                        "Offset": 262300000,
+                        "Duration": 9600000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.73659486,
+                "Lexical": "and i i'm focused to learn more about gpt and generative ai cause of this i'm doing the certificate i studying to do the certificate a",
+                "ITN": "and i i'm focused to learn more about gpt and generative ai cause of this i'm doing the certificate i studying to do the certificate a",
+                "MaskedITN": "and i i'm focused to learn more about gpt and generative ai cause of this i'm doing the certificate i studying to do the certificate a",
+                "Display": "and i i'm focused to learn more about GPT and generative AI cause of this i'm doing the certificate i studying to do the certificate A",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 143500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 146700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 147500000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "focused",
+                        "Offset": 157900000,
+                        "Duration": 7600000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 165500000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "learn",
+                        "Offset": 166300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "more",
+                        "Offset": 175900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "about",
+                        "Offset": 179100000,
+                        "Duration": 8800000
+                    },
+                    {
+                        "Word": "GPT",
+                        "Offset": 187900000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 190700000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "generative",
+                        "Offset": 202300000,
+                        "Duration": 16800000
+                    },
+                    {
+                        "Word": "AI",
+                        "Offset": 219100000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "cause",
+                        "Offset": 227100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "of",
+                        "Offset": 230300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "this",
+                        "Offset": 231900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 235900000,
+                        "Duration": 2800000
+                    },
+                    {
+                        "Word": "doing",
+                        "Offset": 238700000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 242700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "certificate",
+                        "Offset": 244700000,
+                        "Duration": 6800000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 251500000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "studying",
+                        "Offset": 251900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "to",
+                        "Offset": 256700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "do",
+                        "Offset": 258300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "the",
+                        "Offset": 260700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "certificate",
+                        "Offset": 262300000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "A",
+                        "Offset": 286800000,
+                        "Duration": 100000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "d78bdbc349bc40f6bcb6159c8574f26e",
+        "RecognitionStatus": 0,
+        "Offset": 287200000,
+        "Duration": 6800000,
+        "Channel": 0,
+        "DisplayText": "AI 900.",
+        "NBest": [
+            {
+                "Confidence": 0.5193439,
+                "Lexical": "AI nineteen hundred",
+                "ITN": "AI 900",
+                "MaskedITN": "ai 900",
+                "Display": "AI 900.",
+                "Words": [
+                    {
+                        "Word": "AI",
+                        "Offset": 287200000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "nineteen",
+                        "Offset": 288000000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "hundred",
+                        "Offset": 291200000,
+                        "Duration": 2800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.29111677,
+                "Lexical": "ai nine two hundred",
+                "ITN": "ai nine two hundred",
+                "MaskedITN": "ai nine two hundred",
+                "Display": "AI nine two hundred",
+                "Words": [
+                    {
+                        "Word": "AI",
+                        "Offset": 287200000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "nine",
+                        "Offset": 288000000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "two",
+                        "Offset": 289600000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "hundred",
+                        "Offset": 290800000,
+                        "Duration": 2800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.30781776,
+                "Lexical": "ai ninety hundred",
+                "ITN": "ai ninety hundred",
+                "MaskedITN": "ai ninety hundred",
+                "Display": "AI ninety hundred",
+                "Words": [
+                    {
+                        "Word": "AI",
+                        "Offset": 287200000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "ninety",
+                        "Offset": 288000000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "hundred",
+                        "Offset": 292000000,
+                        "Duration": 2800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.2700775,
+                "Lexical": "ai nineteen oh oh",
+                "ITN": "ai nineteen oh oh",
+                "MaskedITN": "ai nineteen oh oh",
+                "Display": "AI nineteen oh oh",
+                "Words": [
+                    {
+                        "Word": "AI",
+                        "Offset": 287200000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "nineteen",
+                        "Offset": 288000000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "oh",
+                        "Offset": 292800000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "oh",
+                        "Offset": 293600000,
+                        "Duration": 800000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.25647524,
+                "Lexical": "ai ninety",
+                "ITN": "ai ninety",
+                "MaskedITN": "ai ninety",
+                "Display": "AI ninety",
+                "Words": [
+                    {
+                        "Word": "AI",
+                        "Offset": 287200000,
+                        "Duration": 800000
+                    },
+                    {
+                        "Word": "ninety",
+                        "Offset": 288000000,
+                        "Duration": 4400000
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": "515e2e3fb4604044b7317ed573ed48bd",
+        "RecognitionStatus": 0,
+        "Offset": 315900000,
+        "Duration": 10400000,
+        "Channel": 0,
+        "DisplayText": "And that's it.",
+        "NBest": [
+            {
+                "Confidence": 0.7018759,
+                "Lexical": "and that's it",
+                "ITN": "and that's it",
+                "MaskedITN": "and that's it",
+                "Display": "And that's it.",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 315900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "that's",
+                        "Offset": 320700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "it",
+                        "Offset": 323100000,
+                        "Duration": 3200000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0,
+                "Lexical": "",
+                "ITN": "",
+                "MaskedITN": "",
+                "Display": ""
+            },
+            {
+                "Confidence": 0.47184148,
+                "Lexical": "and",
+                "ITN": "and",
+                "MaskedITN": "and",
+                "Display": "and",
+                "Words": [
+                    {
+                        "Word": "and",
+                        "Offset": 315900000,
+                        "Duration": 10000000
+                    }
+                ]
+            }
+        ]
+    }
+]
